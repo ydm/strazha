@@ -1,0 +1,1037 @@
+{
+  "parlSession": {
+    "_id": "61b2298773a6172fcc1383f2",
+    "title": "ЧЕТИРИДЕСЕТ И СЕДМО НАРОДНО СЪБРАНИЕ\n\nПЪРВА СЕСИЯ\n\nПЪРВО ЗАСЕДАНИЕ\nСофия, петък, 3 декември 2021 г.\nОткрито в 9,03 ч.",
+    "slug": "2021-12-03",
+    "date": "2021-12-03T00:00:00.000Z",
+    "govId": 10592,
+    "parliament": "61aa046720e632bbcca6e9ce",
+    "hasVotes": true,
+    "hasSteno": true,
+    "votesProcessed": true,
+    "stenoProcessed": true,
+    "__v": 0
+  },
+  "statementCount": 65,
+  "sessionVotes": [
+    {
+      "voteType": "registration",
+      "result": "quorum",
+      "_id": "61b9ef45faff481db8244f0f",
+      "name": "Регистрация",
+      "number": 1,
+      "timestamp": "2021-12-03T07:01:00.000Z",
+      "parlSession": "61b2298773a6172fcc1383f2",
+      "summary": [
+        {
+          "_id": "61b9ef46faff481db824587a",
+          "parlGroup": "61aa179dd17ed11f18a07b0b",
+          "votes": [
+            {
+              "decision": "present",
+              "_id": "61b9ef46faff481db824587b",
+              "count": 59
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db824587c",
+          "parlGroup": "61aa179dd17ed11f18a07b0c",
+          "votes": [
+            {
+              "decision": "present",
+              "_id": "61b9ef46faff481db824587d",
+              "count": 14
+            },
+            {
+              "decision": "not-present",
+              "_id": "61b9ef46faff481db824587e",
+              "count": 1
+            },
+            {
+              "decision": "r-present",
+              "_id": "61b9ef46faff481db824587f",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db8245880",
+          "parlGroup": "61aa179dd17ed11f18a07b0d",
+          "votes": [
+            {
+              "decision": "present",
+              "_id": "61b9ef46faff481db8245881",
+              "count": 60
+            },
+            {
+              "decision": "r-present",
+              "_id": "61b9ef46faff481db8245882",
+              "count": 1
+            },
+            {
+              "decision": "not-present",
+              "_id": "61b9ef46faff481db8245883",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db8245884",
+          "parlGroup": "61aa179dd17ed11f18a07b0e",
+          "votes": [
+            {
+              "decision": "present",
+              "_id": "61b9ef46faff481db8245885",
+              "count": 26
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db8245886",
+          "parlGroup": "61aa179dd17ed11f18a07b0f",
+          "votes": [
+            {
+              "decision": "present",
+              "_id": "61b9ef46faff481db8245887",
+              "count": 22
+            },
+            {
+              "decision": "not-present",
+              "_id": "61b9ef46faff481db8245888",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db8245889",
+          "parlGroup": "61aa179dd17ed11f18a07b10",
+          "votes": [
+            {
+              "decision": "present",
+              "_id": "61b9ef46faff481db824588a",
+              "count": 34
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db824588b",
+          "parlGroup": "61aa179dd17ed11f18a07b11",
+          "votes": [
+            {
+              "decision": "present",
+              "_id": "61b9ef46faff481db824588c",
+              "count": 13
+            }
+          ]
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "voteType": "standard",
+      "result": "approved",
+      "_id": "61b9ef45faff481db8244f10",
+      "name": "Решение за приемане на процедурни правила за избор на Председател на Народното събрание на Република България",
+      "number": 2,
+      "timestamp": "2021-12-03T08:37:00.000Z",
+      "parlSession": "61b2298773a6172fcc1383f2",
+      "summary": [
+        {
+          "_id": "61b9ef46faff481db824588d",
+          "parlGroup": "61aa179dd17ed11f18a07b0b",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db824588e",
+              "count": 59
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db824588f",
+          "parlGroup": "61aa179dd17ed11f18a07b0c",
+          "votes": [
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db8245890",
+              "count": 3
+            },
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db8245891",
+              "count": 13
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db8245892",
+          "parlGroup": "61aa179dd17ed11f18a07b0d",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db8245893",
+              "count": 66
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db8245894",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db8245895",
+          "parlGroup": "61aa179dd17ed11f18a07b0e",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db8245896",
+              "count": 25
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db8245897",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db8245898",
+          "parlGroup": "61aa179dd17ed11f18a07b0f",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db8245899",
+              "count": 25
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db824589a",
+          "parlGroup": "61aa179dd17ed11f18a07b10",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db824589b",
+              "count": 33
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db824589c",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db824589d",
+          "parlGroup": "61aa179dd17ed11f18a07b11",
+          "votes": [
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db824589e",
+              "count": 3
+            },
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db824589f",
+              "count": 10
+            }
+          ]
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "voteType": "standard",
+      "result": "approved",
+      "_id": "61b9ef45faff481db8244f11",
+      "name": "Решение за избор на Председател на Народното събрание на Република България - избира Никола Минчев",
+      "number": 3,
+      "timestamp": "2021-12-03T09:21:00.000Z",
+      "parlSession": "61b2298773a6172fcc1383f2",
+      "summary": [
+        {
+          "_id": "61b9ef46faff481db82458a0",
+          "parlGroup": "61aa179dd17ed11f18a07b0b",
+          "votes": [
+            {
+              "decision": "abstain",
+              "_id": "61b9ef46faff481db82458a1",
+              "count": 59
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458a2",
+          "parlGroup": "61aa179dd17ed11f18a07b0c",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458a3",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458a4",
+          "parlGroup": "61aa179dd17ed11f18a07b0d",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458a5",
+              "count": 65
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458a6",
+              "count": 1
+            },
+            {
+              "decision": "abstain",
+              "_id": "61b9ef46faff481db82458a7",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458a8",
+          "parlGroup": "61aa179dd17ed11f18a07b0e",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458a9",
+              "count": 24
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458aa",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458ab",
+          "parlGroup": "61aa179dd17ed11f18a07b0f",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458ac",
+              "count": 25
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458ad",
+          "parlGroup": "61aa179dd17ed11f18a07b10",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458ae",
+              "count": 28
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458af",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458b0",
+          "parlGroup": "61aa179dd17ed11f18a07b11",
+          "votes": [
+            {
+              "decision": "no",
+              "_id": "61b9ef46faff481db82458b1",
+              "count": 1
+            },
+            {
+              "decision": "abstain",
+              "_id": "61b9ef46faff481db82458b2",
+              "count": 12
+            }
+          ]
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "voteType": "standard",
+      "result": "rejected",
+      "_id": "61b9ef45faff481db8244f12",
+      "name": "Решение за избор на Председател на Народното събрание на Република България - избира Цончо Ганев",
+      "number": 4,
+      "timestamp": "2021-12-03T09:22:00.000Z",
+      "parlSession": "61b2298773a6172fcc1383f2",
+      "summary": [
+        {
+          "_id": "61b9ef46faff481db82458b3",
+          "parlGroup": "61aa179dd17ed11f18a07b0b",
+          "votes": [
+            {
+              "decision": "abstain",
+              "_id": "61b9ef46faff481db82458b4",
+              "count": 58
+            },
+            {
+              "decision": "no",
+              "_id": "61b9ef46faff481db82458b5",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458b6",
+          "parlGroup": "61aa179dd17ed11f18a07b0c",
+          "votes": [
+            {
+              "decision": "no",
+              "_id": "61b9ef46faff481db82458b7",
+              "count": 13
+            },
+            {
+              "decision": "abstain",
+              "_id": "61b9ef46faff481db82458b8",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458b9",
+          "parlGroup": "61aa179dd17ed11f18a07b0d",
+          "votes": [
+            {
+              "decision": "no",
+              "_id": "61b9ef46faff481db82458ba",
+              "count": 54
+            },
+            {
+              "decision": "abstain",
+              "_id": "61b9ef46faff481db82458bb",
+              "count": 12
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458bc",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458bd",
+          "parlGroup": "61aa179dd17ed11f18a07b0e",
+          "votes": [
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458be",
+              "count": 23
+            },
+            {
+              "decision": "abstain",
+              "_id": "61b9ef46faff481db82458bf",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458c0",
+          "parlGroup": "61aa179dd17ed11f18a07b0f",
+          "votes": [
+            {
+              "decision": "no",
+              "_id": "61b9ef46faff481db82458c1",
+              "count": 14
+            },
+            {
+              "decision": "abstain",
+              "_id": "61b9ef46faff481db82458c2",
+              "count": 11
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458c3",
+          "parlGroup": "61aa179dd17ed11f18a07b10",
+          "votes": [
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458c4",
+              "count": 24
+            },
+            {
+              "decision": "no",
+              "_id": "61b9ef46faff481db82458c5",
+              "count": 9
+            },
+            {
+              "decision": "abstain",
+              "_id": "61b9ef46faff481db82458c6",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458c7",
+          "parlGroup": "61aa179dd17ed11f18a07b11",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458c8",
+              "count": 13
+            }
+          ]
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "voteType": "standard",
+      "result": "approved",
+      "_id": "61b9ef45faff481db8244f13",
+      "name": "Решение за приемане на процедурни правила за избор на зам.-председатели на Народното събрание на Република България",
+      "number": 5,
+      "timestamp": "2021-12-03T09:29:00.000Z",
+      "parlSession": "61b2298773a6172fcc1383f2",
+      "summary": [
+        {
+          "_id": "61b9ef46faff481db82458c9",
+          "parlGroup": "61aa179dd17ed11f18a07b0b",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458ca",
+              "count": 59
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458cb",
+          "parlGroup": "61aa179dd17ed11f18a07b0c",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458cc",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458cd",
+          "parlGroup": "61aa179dd17ed11f18a07b0d",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458ce",
+              "count": 66
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458cf",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458d0",
+          "parlGroup": "61aa179dd17ed11f18a07b0e",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458d1",
+              "count": 25
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458d2",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458d3",
+          "parlGroup": "61aa179dd17ed11f18a07b0f",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458d4",
+              "count": 24
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458d5",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458d6",
+          "parlGroup": "61aa179dd17ed11f18a07b10",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458d7",
+              "count": 34
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458d8",
+          "parlGroup": "61aa179dd17ed11f18a07b11",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458d9",
+              "count": 13
+            }
+          ]
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "voteType": "standard",
+      "result": "approved",
+      "_id": "61b9ef45faff481db8244f14",
+      "name": "Решение за избор на зам.-председатели на Народното събрание на Република България",
+      "number": 6,
+      "timestamp": "2021-12-03T09:38:00.000Z",
+      "parlSession": "61b2298773a6172fcc1383f2",
+      "summary": [
+        {
+          "_id": "61b9ef46faff481db82458da",
+          "parlGroup": "61aa179dd17ed11f18a07b0b",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458db",
+              "count": 59
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458dc",
+          "parlGroup": "61aa179dd17ed11f18a07b0c",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458dd",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458de",
+          "parlGroup": "61aa179dd17ed11f18a07b0d",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458df",
+              "count": 66
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458e0",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458e1",
+          "parlGroup": "61aa179dd17ed11f18a07b0e",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458e2",
+              "count": 26
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458e3",
+          "parlGroup": "61aa179dd17ed11f18a07b0f",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458e4",
+              "count": 25
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458e5",
+          "parlGroup": "61aa179dd17ed11f18a07b10",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458e6",
+              "count": 34
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458e7",
+          "parlGroup": "61aa179dd17ed11f18a07b11",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458e8",
+              "count": 13
+            }
+          ]
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "voteType": "standard",
+      "result": "approved",
+      "_id": "61b9ef45faff481db8244f15",
+      "name": "Решение за временно прилагане на Правилника за организацията и дейността на Народното събрание",
+      "number": 7,
+      "timestamp": "2021-12-03T09:41:00.000Z",
+      "parlSession": "61b2298773a6172fcc1383f2",
+      "summary": [
+        {
+          "_id": "61b9ef46faff481db82458e9",
+          "parlGroup": "61aa179dd17ed11f18a07b0b",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458ea",
+              "count": 58
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458eb",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458ec",
+          "parlGroup": "61aa179dd17ed11f18a07b0c",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458ed",
+              "count": 15
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458ee",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458ef",
+          "parlGroup": "61aa179dd17ed11f18a07b0d",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458f0",
+              "count": 64
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458f1",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458f2",
+          "parlGroup": "61aa179dd17ed11f18a07b0e",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458f3",
+              "count": 24
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458f4",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458f5",
+          "parlGroup": "61aa179dd17ed11f18a07b0f",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458f6",
+              "count": 25
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458f7",
+          "parlGroup": "61aa179dd17ed11f18a07b10",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458f8",
+              "count": 33
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458f9",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458fa",
+          "parlGroup": "61aa179dd17ed11f18a07b11",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458fb",
+              "count": 13
+            }
+          ]
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "voteType": "standard",
+      "result": "approved",
+      "_id": "61b9ef45faff481db8244f16",
+      "name": "Решение за приемане на процедурни  правила за избор на секретари на Народното събрание",
+      "number": 8,
+      "timestamp": "2021-12-03T09:44:00.000Z",
+      "parlSession": "61b2298773a6172fcc1383f2",
+      "summary": [
+        {
+          "_id": "61b9ef46faff481db82458fc",
+          "parlGroup": "61aa179dd17ed11f18a07b0b",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db82458fd",
+              "count": 58
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db82458fe",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db82458ff",
+          "parlGroup": "61aa179dd17ed11f18a07b0c",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db8245900",
+              "count": 15
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db8245901",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db8245902",
+          "parlGroup": "61aa179dd17ed11f18a07b0d",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db8245903",
+              "count": 64
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db8245904",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db8245905",
+          "parlGroup": "61aa179dd17ed11f18a07b0e",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db8245906",
+              "count": 26
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db8245907",
+          "parlGroup": "61aa179dd17ed11f18a07b0f",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db8245908",
+              "count": 24
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db8245909",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db824590a",
+          "parlGroup": "61aa179dd17ed11f18a07b10",
+          "votes": [
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db824590b",
+              "count": 4
+            },
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db824590c",
+              "count": 30
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db824590d",
+          "parlGroup": "61aa179dd17ed11f18a07b11",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db824590e",
+              "count": 8
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db824590f",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "voteType": "standard",
+      "result": "approved",
+      "_id": "61b9ef45faff481db8244f17",
+      "name": "Решение за  избор на секретари на Народното събрание",
+      "number": 9,
+      "timestamp": "2021-12-03T09:48:00.000Z",
+      "parlSession": "61b2298773a6172fcc1383f2",
+      "summary": [
+        {
+          "_id": "61b9ef46faff481db8245910",
+          "parlGroup": "61aa179dd17ed11f18a07b0b",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db8245911",
+              "count": 57
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db8245912",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db8245913",
+          "parlGroup": "61aa179dd17ed11f18a07b0c",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db8245914",
+              "count": 15
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db8245915",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db8245916",
+          "parlGroup": "61aa179dd17ed11f18a07b0d",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db8245917",
+              "count": 64
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db8245918",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db8245919",
+          "parlGroup": "61aa179dd17ed11f18a07b0e",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db824591a",
+              "count": 24
+            },
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db824591b",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db824591c",
+          "parlGroup": "61aa179dd17ed11f18a07b0f",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db824591d",
+              "count": 25
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db824591e",
+          "parlGroup": "61aa179dd17ed11f18a07b10",
+          "votes": [
+            {
+              "decision": "no-vote",
+              "_id": "61b9ef46faff481db824591f",
+              "count": 5
+            },
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db8245920",
+              "count": 29
+            }
+          ]
+        },
+        {
+          "_id": "61b9ef46faff481db8245921",
+          "parlGroup": "61aa179dd17ed11f18a07b11",
+          "votes": [
+            {
+              "decision": "yes",
+              "_id": "61b9ef46faff481db8245922",
+              "count": 13
+            }
+          ]
+        }
+      ],
+      "__v": 0
+    }
+  ],
+  "personCount": 240,
+  "parlSlug": "47",
+  "batchSize": 5
+}
